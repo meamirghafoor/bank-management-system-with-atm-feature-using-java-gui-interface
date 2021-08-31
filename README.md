@@ -18,24 +18,24 @@ SQL file is imported in project folder name "databse"
 > There are more many features in project but main features are given.
 # Emplyeees features
 > login.
-forget password.
+> Forget password.
 > Add multiples account.
 > Able to activate ATM account on any bank account.
 > Able to block or activate any bank account or ATM account.
 > Able to change his account password.
 > And also able to change his profile image.
 > Able to see any account history by searcing any account. And also search histroy of any account between two dates.
-> Able to save any account history as PDF file and also save profile as PNG image
+> Able to save any account history as PDF file and also save profile as PNG image.
 > He can search any account history from start to end or search between two dates.
-> Make transection between two accounts
-> Make withdrawal
-> Desposit money
+> Make transection between two accounts.
+> Make withdrawal.
+> Desposit money.
 > There are more many features in project but main features are given.
 # ATM user features
-> login
-> forget password
-> trasfer money
-> mini statment
-> withdraw money
-> change password
-> exit account
+> Login.
+> Forget password.
+> Trasfer money.
+> Mini statment.
+> Withdraw money.
+> Change password.
+> Exit account.
