@@ -39,3 +39,5 @@ SQL file is imported in project folder name "databse"
 > Withdraw money.
 > Change password.
 > Exit account.
+# Templates
+<imge src"images/pic1.jpg">
