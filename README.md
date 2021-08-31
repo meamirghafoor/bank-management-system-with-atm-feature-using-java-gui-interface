@@ -40,6 +40,7 @@ SQL file is imported in project folder name "databse"
 > Change password.
 > Exit account.
 # Templates
+# Bank User demo
 ![pic1](https://user-images.githubusercontent.com/77319741/131551196-7242b380-0ac4-4a77-ad76-56cc402831c3.JPG)
 
 ![loding](https://user-images.githubusercontent.com/77319741/131551461-675995ce-4780-44b7-a99b-3a0cb84949c9.JPG)
@@ -55,3 +56,13 @@ SQL file is imported in project folder name "databse"
 ![ad_history](https://user-images.githubusercontent.com/77319741/131551540-73e11c4a-634a-4b39-9ebb-92ce8b026be4.JPG)
 
 ![ad_pass](https://user-images.githubusercontent.com/77319741/131551555-abd103a5-931a-468f-8d77-e297012a7136.JPG)
+
+#ATM User demo
+
+![atm_1](https://user-images.githubusercontent.com/77319741/131552045-3199e106-5e64-4af4-9b73-1a3902a0156b.JPG)
+
+![atm_2](https://user-images.githubusercontent.com/77319741/131552091-9e9c201c-042a-4b8f-b45c-fbee41630584.JPG)
+
+![atm_3](https://user-images.githubusercontent.com/77319741/131552098-7309a553-13b5-46fc-8f31-11be9f27eff4.JPG)
+
+![atm_4](https://user-images.githubusercontent.com/77319741/131552111-59fa6411-10e4-4ecf-bca4-6466e78ee580.JPG)
