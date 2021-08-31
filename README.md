@@ -25,19 +25,19 @@ SQL file is imported in project folder name "databse"
 > Able to change his account password.
 > And also able to change his profile image.
 > Able to see any account history by searcing any account. And also search histroy of any account between two dates.
-> Able to save any account history as PDF file and also save profile as PNG image.
+> Able to save any account history as a PDF file and also save the profile as a PNG image.
 > He can search any account history from start to end or search between two dates.
-> Make transection between two accounts.
+> Make transactions between two accounts.
 > Make withdrawal.
-> Desposit money.
-> There are more many features in project but main features are given.
+> Deposit money.
+> There are more many features in the project but the main features are given.
 # ATM user features
 > Login.
 > Forget password.
-> Trasfer money.
-> Mini statment.
-> Withdraw money.
+> Transfer money.
+> Mini statement.
+> Withdraw the money.
 > Change password.
 > Exit account.
 # Templates
-<imge src"images/pic1.jpg">
+![pic1](https://user-images.githubusercontent.com/77319741/131551196-7242b380-0ac4-4a77-ad76-56cc402831c3.JPG)
