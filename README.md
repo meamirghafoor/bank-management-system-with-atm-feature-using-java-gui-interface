@@ -11,18 +11,18 @@ SQL file is imported in project folder name "databse"
 > Admin can see how many employees is active.
 > Admin can block or activate any employee account.
 > Admin can delete, block or activate any bank accouts or ATM accounts.
-> Admin can change his account password
+> Admin can change his account password.
 > And also able to change his profile image.
 > Admin can see any account history by searcing any account. And also search histroy of any account between two dates.
-> Admin can save any account history as PDF file and also save profile as PNG image
+> Admin can save any account history as PDF file and also save profile as PNG image.
 > There are more many features in project but main features are given.
 # Emplyeees features
-> login 
-> forget password
+> login.
+forget password.
 > Add multiples account.
 > Able to activate ATM account on any bank account.
 > Able to block or activate any bank account or ATM account.
-> Able to change his account password
+> Able to change his account password.
 > And also able to change his profile image.
 > Able to see any account history by searcing any account. And also search histroy of any account between two dates.
 > Able to save any account history as PDF file and also save profile as PNG image
