@@ -21,8 +21,8 @@ import javax.mail.internet.MimeMessage;
  */
 public class email {
     void send(String to, String sms, String sub) {
-        final String username = "sbl.pk01@gmail.com"; //provide sender email account here
-        final String password = "Alliswell*";// provide email account password here
+        final String username = "your-email-account@gmail.com"; //provide sender email account here
+        final String password = "your-email-account-password";// provide email account password here
         /*
         Note!!
         enable email account setting that you provide
