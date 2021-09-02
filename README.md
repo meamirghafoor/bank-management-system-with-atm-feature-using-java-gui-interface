@@ -1,5 +1,5 @@
 # bank-management-system-with-atm-feature-using-java-gui-interface
-This project develop using java language with gui interface. Complete bank management system with admin user, ATM system is also connect and account user can also use his accounts as atm account by creating bank management.
+This project is develop using java language with gui interface. Complete bank management system with admin and other employee user, ATM system is also connect and account user can also use his accounts as atm account creating by bank management.
 Email system is also added. When user accounts will create or any task perform then a proper email will send on linked account.
 So a email account is needed to add in file name "email" before run this project.
 And aslo need to import SQL file in XAMPP server before run.
