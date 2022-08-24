@@ -36,7 +36,7 @@ This project is developed using Java language with GUI interface. Complete bank 
 6. Change password.
 7. Exit account.
 ## Templates
-## Bank User demo
+### Bank User demo
 ![pic1](https://user-images.githubusercontent.com/77319741/131551196-7242b380-0ac4-4a77-ad76-56cc402831c3.JPG)
 
 ![loding](https://user-images.githubusercontent.com/77319741/131551461-675995ce-4780-44b7-a99b-3a0cb84949c9.JPG)
@@ -53,7 +53,7 @@ This project is developed using Java language with GUI interface. Complete bank 
 
 ![ad_pass](https://user-images.githubusercontent.com/77319741/131551555-abd103a5-931a-468f-8d77-e297012a7136.JPG)
 
-## ATM User demo
+### ATM User demo
 
 ![atm_1](https://user-images.githubusercontent.com/77319741/131552045-3199e106-5e64-4af4-9b73-1a3902a0156b.JPG)
 
